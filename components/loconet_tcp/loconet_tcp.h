@@ -2,6 +2,7 @@
 
 #include "esphome.h"
 #include <ESP8266WiFi.h>
+#include <string>
 
 namespace loconet_tcp {
 
