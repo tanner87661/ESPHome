@@ -7,7 +7,7 @@ namespace empty_component {
 static const char *TAG = "empty_component.component";
 
 void EmptyComponent::setup() {
-..
+
 }
 
 void EmptyComponent::loop() {
