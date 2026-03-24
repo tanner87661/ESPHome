@@ -1,0 +1,7 @@
+{
+  "domain": "loconet_tcp",
+  "name": "LocoNet TCP Client",
+  "version": "1.0.0",
+  "requirements": [],
+  "codeowners": []
+}
